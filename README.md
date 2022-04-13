@@ -46,12 +46,12 @@ rf_predict = rf.predict(x_test_dtm)
 # Example
 ```py
 input_text = 'Had a friend open up to me about his mental addiction to weed and how it was taking over his life and making him depressed'
-
-predict = 'need help'
 ```
+predict : need help
+
 
 ```py
 input_text = 'Hello world!'
-
-predict = 'do not need help'
 ```
+predict : do not need help
+
